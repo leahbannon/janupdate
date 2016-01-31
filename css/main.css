@@ -175,8 +175,9 @@ a:hover {
 
 .tagline {
   float: right;
-  width: 50%;
   margin: 0;
+  text-align: center;
+  width: 50%;
 }
 
 .box {
