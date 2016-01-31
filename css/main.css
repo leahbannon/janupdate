@@ -70,10 +70,7 @@ a:hover {
 }
 
 .tagline {
-  float: right;
-  margin: 0;
   text-align: center;
-  width: 50%;
 }
 
 .image1 {
@@ -180,7 +177,11 @@ a:hover {
   width: 50%;
 }
 
-
+.tagline {
+  float: right;
+  margin: 0;
+  width: 50%;
+}
 
 .box {
   margin: 0 auto;
